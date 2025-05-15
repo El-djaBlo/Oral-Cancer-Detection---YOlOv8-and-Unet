@@ -1,0 +1,5 @@
+path: D:/Python projects/Minor Project/notebook/newStart/dataset # Base directory
+train: D:/Python projects/Minor Project/notebook/newStart/dataset/images/train  # Training images
+val: D:/Python projects/Minor Project/notebook/newStart/dataset/images/val # Validation images
+nc: 2  # Number of classes
+names: ["lesion", "oral cavity"]  # Class names
